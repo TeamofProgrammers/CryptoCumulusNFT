@@ -8,12 +8,6 @@ namespace CloudNFT.Models
         Neck = 3,
         Eyewear = 4,
         Eyebrows = 5,
-        Headgear = 6,
-        
-        
-        
-        
-        
-        
+        Headgear = 6
     }
 }
