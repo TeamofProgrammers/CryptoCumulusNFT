@@ -18,6 +18,7 @@
 
 ## Pre-requisites
 
+Dotnetcore6 SDK
 Image Magick <a href="https://imagemagick.org/script/download.php">https://imagemagick.org/script/download.php</a>
 
 ## Install
