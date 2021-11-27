@@ -18,8 +18,10 @@
 
 ## Pre-requisites
 
-Dotnetcore6 SDK
-Image Magick <a href="https://imagemagick.org/script/download.php">https://imagemagick.org/script/download.php</a>
+Dotnetcore6 SDK <a href="https://dotnet.microsoft.com/download/dotnet/6.0">https://dotnet.microsoft.com/download/dotnet/6.0</a>
+Image Magick 
+* Windows: <a href="https://imagemagick.org/script/download.php">https://imagemagick.org/script/download.php</a>
+* MAC: `brew install imagemagick`
 
 ## Install
 
